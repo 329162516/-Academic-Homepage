@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "许祐铭"
+title                    : "唐健"
 description              : "电磁无损检测"
 repository               : "329162516/329162516.github.io"
 google_scholar_stats_use_cdn : false
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "唐健"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "武汉大学"
+  bio              : "华中科技大学"
   location         : "湖北 武汉"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
