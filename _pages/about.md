@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我博士毕业于湖北武汉的 武汉大学 第一临床学院，我的导师是于红刚教授。包括合著，我已经发表 20 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+我博士毕业于湖北武汉的 武汉大学 第一临床学院，我的导师是于红刚教授。包括合著，我已经发表 10 篇学术论文
+ <a href='https://scholar.google.com/citations?hl=zh-CN&user=AT_U3gcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
-- 消化内镜
+- 胰腺炎
 - 人工智能
+- ERCP
+- 消化内镜
 - 深度学习
 - 机器学习
-- 胰腺炎
-- 内镜下逆行胰胆管造影术
 - 胰腺癌
   
 
@@ -46,8 +46,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	`Youming Xu`, Zehua Dong, Li Huang, Hongliu Du, Ting Yang, Chaijie Luo, Xiao Tao, Junxiao Wang, Zhifeng Wu, Lianlian Wu, Rong Lin, Honggang Yu. Multistep validation of a post-ERCP pancreatitis prediction system integrating multimodal data: a multicenter study. *Gastrointestinal Endoscopy*, 2024, P464-472.e17. (JCR:Q1; IF:6.7)  
+[[网页]](https://doi.org/10.1016/j.gie.2024.03.033) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 </div>
 </div>
@@ -139,11 +139,7 @@ redirect_from:
 
 ### 专利
 ---
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
-- 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-- 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
-- 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
+- Method and device for determining fibrosis grade of common bile duct and related equipment thereof. CN115944276A. Feb 22, 2023 [[网页]](https://worldwide.espacenet.com/patent/search/family/087291378/publication/CN115944276A?q=pn%3DCN115944276A)
 
 
 
@@ -154,16 +150,16 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+- *2022* the Provincial level of the 8th "Internet+ Innovation and Entrepreneurship Competition " ` Silver Award`  
+- *2022* the outstanding postgraduate student `Graduate Merit Scholarship` 
+- *2021* the United European Gastroenterology Week 2021 `National Scholar Award`  
 
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+- *2023.11*, Chinese Conference of Digestive Endoscopology. (CCDE 2023), ShanXi TaiYuan, Oral
+- *2022.04*, the European Society of Gastrointestinal Endoscopy Days. (ESGE 2022), Czech Prague, Poster
+- *2021.10*, United European Gastroenterology Week. (UEG Week 2021), Virtual, Oral
 
 <span class='anchor' id='-gzsx'></span>
 
